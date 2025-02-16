@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## Skills
 
-- **Languages:** Python, Java, C++ , Dart
+- **Languages:** Python, Java, C++ , Dart , SQLite
 - **Frameworks:** Java fx, Flask  
 - **Tools:** Git, Linux
 
