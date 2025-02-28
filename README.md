@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 - **Languages:** Python, Java, C++ , Dart , SQLite
 - **Frameworks:** Java fx, Flask  
-- **Tools:** Git, Linux
+- **Tools:** Git, Linux,Docker
 
 ## Projects
 
@@ -28,6 +28,6 @@ Here are some of the projects I've been working on:
 
 - [LinkedIn](https://www.linkedin.com/in/junaid-ashraf56/)
 - [Instagram](https://www.instagram.com/junaid_ashraf_56/?next=%2F)
-- [Personal Website](http://junaid-ashraf.com)
+- [Personal Website](https://junaid-ashraf-56.github.io/Web-base-Portfolio/)
 
 Thank you for visiting my profile! Have a great day! 😄
