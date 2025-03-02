@@ -29,7 +29,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 </a>&nbsp;&nbsp;
 
 ## Frameworks  
- 
+ <a href="https://openjfx.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/javafx-logo.png" width="40" height="40"/>
+</a>
+
 <a href="https://openjfx.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/JavaFX_Logo.png" width="40" height="40"/>
 </a>
