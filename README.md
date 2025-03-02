@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 - **Languages:** Python, Java, C++ , Dart , SQLite
 - **Frameworks:** Java fx, Flask  
-- **Tools:** Git, Linux,Docker
+- **Tools:** Git, Linux, Docker
 
 ## Projects
 
@@ -25,7 +25,7 @@ Here are some of the projects I've been working on:
 3. **Web Base Portfolio** - I make a web-based portfolio by using languages like HTML, CSS, and JavaScript.
 
 ## Connect with Me
-<i class="devicon-linkedin-plain colored">[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)  </i>
+<i class="devicon-linkedin-plain colored">(https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)  </i>
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/YOUR_INSTAGRAM_PROFILE)  
 [![Website](https://img.shields.io/badge/-Website-FF9900?style=flat&logo=google-chrome)](https://YOUR_WEBSITE_URL)  
 
