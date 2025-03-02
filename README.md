@@ -18,6 +18,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 </a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+</a>&nbsp;&nbsp;
 <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </a>&nbsp;&nbsp;
