@@ -26,8 +26,8 @@ Here are some of the projects I've been working on:
 
 ## Connect with Me
 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/YOUR_INSTAGRAM_PROFILE)  
-[![Website](https://img.shields.io/badge/-Website-FF9900?style=flat&logo=google-chrome)](https://YOUR_WEBSITE_URL)  
+[![Instagram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg)](https://www.instagram.com/YOUR_INSTAGRAM_PROFILE)  
+[![Website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](https://YOUR_WEBSITE_URL)  
 
 
 
