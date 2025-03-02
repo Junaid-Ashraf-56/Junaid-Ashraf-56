@@ -33,6 +33,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
 </a>
+<a href="https://openjfx.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/JavaFX_Logo_PNG.png" width="40" height="40"/>
+</a>
 
 
 **Tools**  
