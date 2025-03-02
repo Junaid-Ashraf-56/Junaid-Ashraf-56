@@ -29,9 +29,6 @@ Here are some of the projects I've been working on:
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_PROFILE" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
-</a>
 <a href="https://YOUR_WEBSITE_URL" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 </a>
