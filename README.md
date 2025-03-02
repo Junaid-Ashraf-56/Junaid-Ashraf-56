@@ -32,10 +32,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
  
 <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://openjfx.io/" target="_blank">
-    <img src="https://raw.github.com/Junaid-Ashraf-56/Java-FX-image/main/javafx-logo.png" width="40" height="40"/>
+    <img src="https://github.com/Junaid-Ashraf-56/Java-FX-image/blob/main/assets/JavaFx%20Logo.png?raw=true" width="40" height="40"/>
 </a>
+
 
 
 
