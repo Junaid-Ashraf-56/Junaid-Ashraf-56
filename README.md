@@ -14,24 +14,24 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## Languages  
 <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-</a> 
+</a> &nbsp;&nbsp;
 <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://dart.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 ## Frameworks  
 <a href="https://openjfx.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/JavaFX_Logo.png" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
 </a>
@@ -39,10 +39,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## Tools  
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </a>
@@ -65,11 +65,6 @@ Here are some of the projects I've been working on:
 <a href="https://YOUR_WEBSITE_URL" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 </a>
-
-
-
-
-
 
 
 Thank you for visiting my profile! Have a great day! 😄
