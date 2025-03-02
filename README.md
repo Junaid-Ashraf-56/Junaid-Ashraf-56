@@ -26,9 +26,10 @@ Here are some of the projects I've been working on:
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/YOUR_INSTAGRAM_PROFILE)  
-[![Website](https://img.shields.io/badge/-Website-FF9900?style=flat&logo=google-chrome)](https://YOUR_WEBSITE_URL)
+[![LinkedIn](https://img.shields.io/badge/-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)  
+[![Instagram](https://img.shields.io/badge/-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/YOUR_INSTAGRAM_PROFILE)  
+[![Website](https://img.shields.io/badge/-000?style=for-the-badge&logo=google-chrome)](https://YOUR_WEBSITE_URL)
+
 
 
 
