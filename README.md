@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
 </a>
 <a href="https://openjfx.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Junaid-Ashraf-56/Java-FX-image/main/javafx-logo.png" width="40" height="40"/>
+    <img src="https://raw.github.com/Junaid-Ashraf-56/Java-FX-image/main/javafx-logo.png" width="40" height="40"/>
 </a>
 
 
