@@ -52,7 +52,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 </a>&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
 </a>
+
 
 
 
