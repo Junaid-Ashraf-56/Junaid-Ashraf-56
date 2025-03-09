@@ -73,7 +73,7 @@ Here are some of the projects I've been working on:
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>&nbsp;&nbsp;
-<a href="https://junaid-ashraf-56.github.io/Web-base-Portfolio/" target="_blank">
+<a href="https://junaid-ashraf-56.github.io/Web-Base-Portfolio/index.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 <a href="https://leetcode.com/u/56_56/" target="_blank">
