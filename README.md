@@ -12,9 +12,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## Skills
 **Languages:**  
-<a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-</a> &nbsp;&nbsp;
 <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 </a>&nbsp;&nbsp;
