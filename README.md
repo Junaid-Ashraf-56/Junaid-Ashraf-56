@@ -73,9 +73,6 @@ Here are some of the projects I've been working on:
 </a>&nbsp;&nbsp;
 <a href="https://leetcode.com/u/56_56/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/ashrafjunaid848" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/HackerRank_logo.png" width="40" height="40"/>
 </a>
 
 
