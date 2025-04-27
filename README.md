@@ -60,8 +60,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 Here are some of the projects I've been working on:
 
 1. **Todo App** - A Java-based todo app with a GUI in Swing allows you to add, update, and delete tasks using an SQLite database.
-2. **Snake Game** - The Snake Game is implemented in Java using Swing for the graphical user interface, allowing you to play the game.
-3. **Web Base Portfolio** - I make a web-based portfolio by using languages like HTML, CSS, and JavaScript.
+2. **Hospital Management System**—A Java-based Management System working on a terminal that can get information about Doctors, Patients, and Appointments, and store it in PostgreSQL.
+3. **Web-Based Portfolio** - I make a web-based portfolio using languages like HTML, CSS, and JavaScript.
 
 ## Connect with Me
 
