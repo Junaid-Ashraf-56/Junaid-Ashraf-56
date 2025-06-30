@@ -54,15 +54,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 
 
-
-## Projects
-
-Here are some of the projects I've been working on:
-
-1. **Todo App** - A Java-based todo app with a GUI in Swing allows you to add, update, and delete tasks using an SQLite database.
-2. **Hospital Management System**—A Java-based Management System working on a terminal that can get information about Doctors, Patients, and Appointments, and store it in PostgreSQL.
-3. **Web-Based Portfolio** - I make a web-based portfolio using languages like HTML, CSS, and JavaScript.
-
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
