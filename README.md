@@ -1,26 +1,28 @@
-<div align="right">
-  <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdoOGYybTFqaG41ZHJ5cDN4eTlsc2JwZDB4OXdhZm1sYTBkM2lzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+<div align="center" style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+  <div align="left">
+    <a href="https://www.linkedin.com/in/junaid-ashraf56/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    </a>
+    <br>
+    <a href="https://junaid-ashraf-56.github.io/Web-Base-Portfolio/index.html" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Google%20Dev&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    </a>
+    <br>
+    <a href="https://leetcode.com/u/56_56/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    </a>
+    <br>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Junaid-Ashraf-56.Junaid-Ashraf-56" height="25" />
+  </div>
+
+
+  <div align="right">
+    <img height="250" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
+  </div>
+
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/junaid-ashraf56/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
- <a href="https://junaid-ashraf-56.github.io/Web-Base-Portfolio/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Google%20Dev&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://leetcode.com/u/56_56/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Junaid-Ashraf-56.Junaid-Ashraf-56" />
-</div>
 
 ###
 
