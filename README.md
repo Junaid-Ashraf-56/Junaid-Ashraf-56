@@ -1,96 +1,63 @@
-<div align="center" style="display: flex; align-items: flex-start; justify-content: space-between;">
-
-  <div align="left">
-    <a href="https://www.linkedin.com/in/junaid-ashraf56/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-    </a>
-    <br>
-    <a href="https://junaid-ashraf-56.github.io/Web-Base-Portfolio/index.html" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Google%20Dev&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-    </a>
-    <br>
-    <a href="https://leetcode.com/u/56_56/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-    </a>
-    <br>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Junaid-Ashraf-56.Junaid-Ashraf-56" height="25" />
-  </div>
 
 
-  <div align="right">
-    <img height="270" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
-  </div>
-
-</div>
-
-
-###
-
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Junaid Ashraf</h1>
+<h3 align="center">A passionate programmer from Pakistan</h3>
 
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm Junaid Ashraf from Pakistan.<br><br>
-- 🔭 I’m currently working on Java-based projects and mobile apps with Flutter<br>
-- 📚 Currently learning DSA and backend development <br>
-- ⚡ Fun fact: I love building clean UI and working with real-time APIs
+- 🔭 I’m currently working on Java-based projects<br>
+- 📚 Currently learning DSA, DBMS, and strengthening my fundamentals <br>
+- ⚡ Fun fact: I love coding and working with real-time APIs
 </p>
 
 ###
 
-<h3 align="left">🚀 Languages & Tools I Use</h3>
+### 🚀 Tech Stack
 
-### Languages:
-<div align="left">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-</div>
+<table align="center" style="width:100%; table-layout: fixed; border-collapse: collapse;"">
+  <tr style="height: 100px;">
+    <th align="center">Languages</th>
+    <th align="center">Frameworks</th>
+  </tr>
+  <tr style="height: 120px;">
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Junaid-Ashraf-56/Java-FX-image/blob/main/assets/JavaFx%20Logo.png?raw=true" width="80" height="40" alt="JavaFX"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+    </td>
+  </tr>
+</table>
 
-### Frameworks:
-<div align="left">
-  <a href="https://openjfx.io/" target="_blank">
-    <img src="https://github.com/Junaid-Ashraf-56/Java-FX-image/blob/main/assets/JavaFx%20Logo.png?raw=true" width="80" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  </a>
-</div>
+### 🛠️ Tools I Use
 
-### Tools:
-<div align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank">
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA"/>
+</p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/junaid_ashraf56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaid_ashraf56" height="30" width="40" /></a>
+&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/junaid-ashraf56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junaid-ashraf56/" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/https://www.instagram.com/junaid_ashraf_56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/junaid_ashraf_56/" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ashrafjunaid848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ashrafjunaid848" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/junaid-ashraf-56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/junaid-ashraf-56" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/https://leetcode.com/u/56_56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/56_56/" height="30" width="40" /></a>&nbsp;&nbsp;
+</p>
+    
 ###
 
 <h3 align="left">📈 My LeetCode Stats</h3>
