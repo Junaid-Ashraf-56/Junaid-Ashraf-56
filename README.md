@@ -5,15 +5,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junaid-Ashraf-56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Junaid-Ashraf-56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
-
-###
-
-
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
@@ -66,10 +57,19 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/junaid-ashraf-56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/junaid-ashraf-56" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/https://leetcode.com/u/56_56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/56_56/" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
-    
+
+###
+<h3 align="left"> My Github Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Junaid-Ashraf-56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Junaid-Ashraf-56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
+
+
+###
 ###
 
-<h3 align="left">📈 My LeetCode Stats</h3>
+<h3 align="left"> My LeetCode Stats</h3>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/56_56?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
