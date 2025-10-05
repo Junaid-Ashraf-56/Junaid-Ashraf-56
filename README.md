@@ -1,79 +1,85 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F701&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Junaid+Ashraf;Passionate+Programmer;Backend+Developer;Problem+Solver" alt="Typing SVG" />
+</div>
+
+<h3 align="center">🚀 A passionate programmer from Pakistan 🇵🇰</h3>
 
 
-<h1 align="center">Hi 👋, I'm Junaid Ashraf</h1>
-<h3 align="center">A passionate programmer from Pakistan</h3>
+---
 
-###
+### 👨‍💻 About Me
 
-<h3 align="left">👨‍💻 About Me</h3>
+```yaml
+name: Junaid Ashraf
+location: Pakistan
+current_focus: Open Source
+learning: [DSA, DBMS, System Design]
+interests: [Coding, Real-time APIs, Problem Solving]
+fun_fact: "I debug with print statements and I'm not ashamed! 😄"
+```
 
-<p align="left">
-- 🔭 I’m currently working on Java-based projects<br>
-- 📚 Currently learning DSA, DBMS, and strengthening my fundamentals <br>
-- ⚡ Fun fact: I love coding and working with real-time APIs
-</p>
-
-###
+---
 
 ### 🚀 Tech Stack
 
-<table align="center" style="width:100%; table-layout: fixed; border-collapse: collapse;"">
-  <tr style="height: 100px;">
-    <th align="center">Languages</th>
-    <th align="center">Frameworks</th>
-  </tr>
-  <tr style="height: 120px;">
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Junaid-Ashraf-56/Java-FX-image/blob/main/assets/JavaFx%20Logo.png?raw=true" width="80" height="40" alt="JavaFX"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Tools I Use
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA"/>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/junaid_ashraf56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaid_ashraf56" height="30" width="40" /></a>
-&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/junaid-ashraf56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junaid-ashraf56/" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/junaid_ashraf_56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/junaid_ashraf_56/" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/ashrafjunaid848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ashrafjunaid848" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/junaid-ashraf-56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/junaid-ashraf-56" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/56_56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/56_56/" height="30" width="40" /></a>&nbsp;&nbsp;
-</p>
-
-###
-<h3 align="left"> My Github Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junaid-Ashraf-56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Junaid-Ashraf-56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,dart,sqlite,postgresql" />
+</p>
+
+#### 🛠️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,flutter,git,linux,docker,idea" />
+</p>
+
 </div>
 
+---
 
-###
-###
+### 📊 GitHub Stats
 
-<h3 align="left"> My LeetCode Stats</h3>
+<div align="center">
+  <img width="400px" height="450px" src="https://github-readme-stats.vercel.app/api?username=Junaid-Ashraf-56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="350px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Junaid-Ashraf-56&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+### 🏆 LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/56_56?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
 </div>
 
-###
+---
 
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/junaid_ashraf56" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/junaid-ashraf56/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/junaid_ashraf_56/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ashrafjunaid848" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://codeforces.com/profile/junaid-ashraf-56" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/56_56/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
