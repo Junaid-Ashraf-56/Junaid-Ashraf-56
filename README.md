@@ -15,7 +15,7 @@ location: Pakistan
 current_focus: Open Source
 learning: [DSA, DBMS, System Design]
 interests: [Coding, Real-time APIs, Problem Solving]
-fun_fact: "I debug with print statements and I'm not ashamed! 😄"
+fun_fact: "I debug with print statements, and I'm not ashamed! 😄"
 ```
 
 ---
@@ -26,7 +26,7 @@ fun_fact: "I debug with print statements and I'm not ashamed! 😄"
 
 #### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,dart,sqlite,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,python,dart,sqlite,postgresql" />
 </p>
 
 #### 🛠️ Frameworks & Tools
