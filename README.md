@@ -38,14 +38,6 @@ fun_fact: "I debug with print statements and I'm not ashamed! 😄"
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center"> 
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Junaid-Ashraf-56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Ashraf-56&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> 
-</div>
-
----
 
 ### 🏆 LeetCode Stats
 
